@@ -136,9 +136,13 @@ font-family: 'Quicksand', sans-serif;
     100% { opacity: 0; }
 } */
 
-
-
 @media only screen and (max-width: 750px) {
+  .top-menu a p {
+    font-size: 1.2em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
   .top-menu a p {
     font-size: 1em;
   }
