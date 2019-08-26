@@ -29,6 +29,12 @@
   justify-content: flex-end;
   align-items: center;
 }
+
+.menu-powerpoint{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .top-menu a p{
   margin-left: 0.8em;
   margin-right: 0.8em;
